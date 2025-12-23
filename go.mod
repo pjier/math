@@ -1,4 +1,4 @@
-module github.com/pjier/math
+module github.com/pjier/math/v2
 
 go 1.25.5
 
